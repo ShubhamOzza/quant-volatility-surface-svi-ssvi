@@ -1,0 +1,2 @@
+n_expiries,ssvi_rho,ssvi_eta,ssvi_gamma,surface_rmse_vol_points,median_slice_rmse_vol_points,theta_monotone,calendar_violations,butterfly_violations_ssvi,butterfly_min_g_ssvi,parity_max_rmse_bp,parity_median_rmse_bp
+10,-0.8394443979006985,0.653099649377683,0.0010000000000000345,0.10349352527903827,0.08697551561324099,True,0,0,0.7856165138815387,0.006285220776859039,0.005063232572705671
